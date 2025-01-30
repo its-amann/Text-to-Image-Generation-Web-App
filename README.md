@@ -542,8 +542,8 @@ This project combines cutting-edge AI models to create a unique text-to-image ge
 
 For any inquiries or suggestions, feel free to reach out:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aman-agnihotri004/))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg?style=for-the-badge&logo=github)]([https://github.com/your-username](https://github.com/its-amann))
 
 </div>
 
@@ -552,6 +552,6 @@ For any inquiries or suggestions, feel free to reach out:
 <div align="center">
 <p style="color: #666; font-style: italic;">Made with ❤️ by Aman Agrawal</p>
 
-![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/your-repo-name/readme)
+
 
 </div>
