@@ -552,6 +552,6 @@ For any inquiries or suggestions, feel free to reach out:
 <div align="center">
 <p style="color: #666; font-style: italic;">Made with ❤️ by Aman Agrawal</p>
 
-![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/your-repo-name/readme)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Text-to-Image-Genration-Web-App/readme)
 
 </div>
