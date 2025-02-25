@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 Text to Image Generation Web App
+# 🎨 Text to Image Generation Web App 
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
