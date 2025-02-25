@@ -25,8 +25,8 @@ A cutting-edge web application that transforms text descriptions into stunning i
 Experience our modern web interface with an immersive 3D particle background:
 
 <div style="position: relative;">
-<video width="100%" controls autoplay loop muted style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.1); margin: 20px 0;">
-  <source src="_asserts/app-ui.gif" type="video/mp4">
+<img src="_asserts/app-ui.gif" alt="Animated GIF" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.1); margin: 20px 0;">
+
   Your browser does not support the video tag.
 </video>
 </div>
