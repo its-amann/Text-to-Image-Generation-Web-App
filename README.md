@@ -27,7 +27,6 @@ Experience our modern web interface with an immersive 3D particle background:
 <div style="position: relative;">
 <img src="_asserts/app-ui.gif" alt="Animated GIF" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.1); margin: 20px 0;">
 
-  Your browser does not support the video tag.
 </video>
 </div>
 
@@ -52,7 +51,6 @@ Watch our model evolve in creating a "sunset time at the beach" scene:
 <div style="position: relative;">
 <img src="_asserts/training-result.gif" alt="Training Result GIF" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.1); margin: 20px 0;">
 
-  Your browser does not support the video tag.
 </video>
 </div>
 
